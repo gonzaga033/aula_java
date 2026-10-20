@@ -1,4 +1,5 @@
-import java.util.Scanner;;
+package aula1;
+import java.util.Scanner;
 public class SomaNum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
